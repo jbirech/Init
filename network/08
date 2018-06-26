@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 17:10:51 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 17:10:57 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Find the provider of slash16.org
+AWS
+#whois command shows Internet domain name and network number directory service
+#man whois

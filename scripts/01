@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 19:24:28 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 19:27:44 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Write a script which displays only the login, UID and Path of each entry of the
+#/etc/passwd file.
+awk -F ":" '{print $1, $3, $6}' /etc/passwd
+man awk--> pattern-directed scanning and processing language

@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    02                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 17:33:02 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 17:34:09 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#What command can you use to rename your system?
+hostname jobirech
+#Set the host name of the system to jobirech

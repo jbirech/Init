@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 18:50:02 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 18:51:41 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#What command lets you know who is connected to the System?
+sudo fdisk -l 
+#man fdisk--> DOS partition maintenance program

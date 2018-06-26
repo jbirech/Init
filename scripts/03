@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 19:30:38 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 19:34:16 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Write a script which displays the list of files from the folder given as parameter,
+#sorted by size
+
+#!bin/bash
+
+if [$1]; then
+	ls -la $1 | grep ^-
+
+fi

@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 16:33:12 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 16:34:33 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Identify the network devices between your computer and the slash16.org domain
+traceroute slash16.org
+#man traceroute
+#traceroute--> print the route packets take to network host

@@ -1,0 +1,14 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 17:08:59 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 17:09:03 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#The -l flag may be used to list all available interfaces on the system, with noother additional information.
+ifconfig -l

@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    07                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 17:44:05 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 17:50:51 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Figure out the PID of the SSHD service.
+ps aux | grep -e /usr/sbin/sshd | grep -v grep | tr -s " " | cut -d " " -f2
+#https://stackoverflow.com/questions/6867669/getting-pid-of-sshd
+#or cat /var/run/sshd.pid
+#pgrep sshd
+#sudo service sshd status

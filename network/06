@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 17:10:26 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 17:10:30 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Get the complete path of the file that contains the IP address of the DNS server you’re using
+# To view the DNS configuration used by this system, use:
+#   scutil --dns
+
+scutil --dns /etc/resolv.confi

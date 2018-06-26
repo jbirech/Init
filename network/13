@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 16:51:39 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 16:52:40 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Figure out the server type.
+253.1.51.10.in-addr.arpa domain name pointer dhcp-dns.42.us.org.
+253.1.51.10.in-addr.arpa domain name pointer dhcp.42.us.org.
+
+#man host
+#DNS lookup utility

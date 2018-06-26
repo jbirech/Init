@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/24 18:57:49 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/24 19:02:22 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#Name the command that find currently running processes
+top
+#man top-->display and update sorted information about processe
